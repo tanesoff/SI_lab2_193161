@@ -17,4 +17,4 @@ e = 30 , n = 24
 
 # Control Flow Graph
 
-![](cfgpdf.pdf)
+![](/cfgpdf.pdf)
